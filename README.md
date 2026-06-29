@@ -1,5 +1,3 @@
-# customer-purchase-prediction
-
 # Customer Purchase Prediction
 
 ## Dataset
